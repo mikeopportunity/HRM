@@ -1,0 +1,11 @@
+D:\Materials\СТОУН\HRM\HRM.Domain\bin\Debug\net8.0\HRM.Domain.deps.json
+D:\Materials\СТОУН\HRM\HRM.Domain\bin\Debug\net8.0\HRM.Domain.dll
+D:\Materials\СТОУН\HRM\HRM.Domain\bin\Debug\net8.0\HRM.Domain.pdb
+D:\Materials\СТОУН\HRM\HRM.Domain\obj\Debug\net8.0\HRM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materials\СТОУН\HRM\HRM.Domain\obj\Debug\net8.0\HRM.Domain.AssemblyInfoInputs.cache
+D:\Materials\СТОУН\HRM\HRM.Domain\obj\Debug\net8.0\HRM.Domain.AssemblyInfo.cs
+D:\Materials\СТОУН\HRM\HRM.Domain\obj\Debug\net8.0\HRM.Domain.csproj.CoreCompileInputs.cache
+D:\Materials\СТОУН\HRM\HRM.Domain\obj\Debug\net8.0\HRM.Domain.dll
+D:\Materials\СТОУН\HRM\HRM.Domain\obj\Debug\net8.0\refint\HRM.Domain.dll
+D:\Materials\СТОУН\HRM\HRM.Domain\obj\Debug\net8.0\HRM.Domain.pdb
+D:\Materials\СТОУН\HRM\HRM.Domain\obj\Debug\net8.0\ref\HRM.Domain.dll

@@ -1,0 +1,17 @@
+D:\Materials\СТОУН\HRM\HRM.DAL\obj\Debug\net8.0\HRM.DAL.csproj.AssemblyReference.cache
+D:\Materials\СТОУН\HRM\HRM.DAL\obj\Debug\net8.0\HRM.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materials\СТОУН\HRM\HRM.DAL\obj\Debug\net8.0\HRM.DAL.AssemblyInfoInputs.cache
+D:\Materials\СТОУН\HRM\HRM.DAL\obj\Debug\net8.0\HRM.DAL.AssemblyInfo.cs
+D:\Materials\СТОУН\HRM\HRM.DAL\obj\Debug\net8.0\HRM.DAL.csproj.CoreCompileInputs.cache
+D:\Materials\СТОУН\HRM\HRM.DAL\bin\Debug\net8.0\HRM.DAL.deps.json
+D:\Materials\СТОУН\HRM\HRM.DAL\bin\Debug\net8.0\HRM.DAL.runtimeconfig.json
+D:\Materials\СТОУН\HRM\HRM.DAL\bin\Debug\net8.0\HRM.DAL.dll
+D:\Materials\СТОУН\HRM\HRM.DAL\bin\Debug\net8.0\HRM.DAL.pdb
+D:\Materials\СТОУН\HRM\HRM.DAL\bin\Debug\net8.0\HRM.Core.dll
+D:\Materials\СТОУН\HRM\HRM.DAL\bin\Debug\net8.0\HRM.Core.pdb
+D:\Materials\СТОУН\HRM\HRM.DAL\obj\Debug\net8.0\HRM.DAL.csproj.CopyComplete
+D:\Materials\СТОУН\HRM\HRM.DAL\obj\Debug\net8.0\HRM.DAL.dll
+D:\Materials\СТОУН\HRM\HRM.DAL\obj\Debug\net8.0\refint\HRM.DAL.dll
+D:\Materials\СТОУН\HRM\HRM.DAL\obj\Debug\net8.0\HRM.DAL.pdb
+D:\Materials\СТОУН\HRM\HRM.DAL\obj\Debug\net8.0\HRM.DAL.genruntimeconfig.cache
+D:\Materials\СТОУН\HRM\HRM.DAL\obj\Debug\net8.0\ref\HRM.DAL.dll

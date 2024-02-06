@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "251priZClUU2+U7IDjEAcIt3piFJl1RZf8CpprvFSh26p1J9h4xdFT9EBQT5DjOjnh0qq9kQcVySoaouRcdklQ==",
+  "success": true,
+  "projectFilePath": "D:\\Materials\\СТОУН\\HRM\\HRM.Core\\HRM.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lexxh\\.nuget\\packages\\ardalis.specification\\8.0.0\\ardalis.specification.8.0.0.nupkg.sha512",
+    "C:\\Users\\lexxh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

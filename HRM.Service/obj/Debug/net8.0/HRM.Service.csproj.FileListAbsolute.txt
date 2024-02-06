@@ -1,0 +1,17 @@
+D:\Materials\СТОУН\HRM\HRM.Service\bin\Debug\net8.0\HRM.Service.deps.json
+D:\Materials\СТОУН\HRM\HRM.Service\bin\Debug\net8.0\HRM.Service.dll
+D:\Materials\СТОУН\HRM\HRM.Service\bin\Debug\net8.0\HRM.Service.pdb
+D:\Materials\СТОУН\HRM\HRM.Service\bin\Debug\net8.0\HRM.Core.dll
+D:\Materials\СТОУН\HRM\HRM.Service\bin\Debug\net8.0\HRM.Domain.dll
+D:\Materials\СТОУН\HRM\HRM.Service\bin\Debug\net8.0\HRM.Core.pdb
+D:\Materials\СТОУН\HRM\HRM.Service\bin\Debug\net8.0\HRM.Domain.pdb
+D:\Materials\СТОУН\HRM\HRM.Service\obj\Debug\net8.0\HRM.Service.csproj.AssemblyReference.cache
+D:\Materials\СТОУН\HRM\HRM.Service\obj\Debug\net8.0\HRM.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materials\СТОУН\HRM\HRM.Service\obj\Debug\net8.0\HRM.Service.AssemblyInfoInputs.cache
+D:\Materials\СТОУН\HRM\HRM.Service\obj\Debug\net8.0\HRM.Service.AssemblyInfo.cs
+D:\Materials\СТОУН\HRM\HRM.Service\obj\Debug\net8.0\HRM.Service.csproj.CoreCompileInputs.cache
+D:\Materials\СТОУН\HRM\HRM.Service\obj\Debug\net8.0\HRM.Service.csproj.CopyComplete
+D:\Materials\СТОУН\HRM\HRM.Service\obj\Debug\net8.0\HRM.Service.dll
+D:\Materials\СТОУН\HRM\HRM.Service\obj\Debug\net8.0\refint\HRM.Service.dll
+D:\Materials\СТОУН\HRM\HRM.Service\obj\Debug\net8.0\HRM.Service.pdb
+D:\Materials\СТОУН\HRM\HRM.Service\obj\Debug\net8.0\ref\HRM.Service.dll
